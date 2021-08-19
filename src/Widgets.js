@@ -29,11 +29,11 @@ function Widgets() {
                 <InfoIcon />
             </div>
 
-            {newsArticle("JEJELIVE explose les compteurs", "La plaque tournante de l'info !!")}
+            {newsArticle("Jejelive explose les compteurs", "La plaque tournante de l'info !!")}
             {newsArticle("Covid", "La médecine passe la seconde")}
             {newsArticle("Ski alpin", "Un snowpark ouvre à Marseille")}
             {newsArticle("Crypto", "Nouvelle crypto amicale née dans le Sud")}
-            {newsArticle("2022", "Votre carrière va démarrer et la thune va pleuvoir - Top news 3500 vues")}
+            {newsArticle("Alerte météo", "Pluie diluvienne de biftons pour 2022")}
         </div>
     );    
 }
